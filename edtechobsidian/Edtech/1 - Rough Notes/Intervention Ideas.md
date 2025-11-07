@@ -70,7 +70,8 @@ CLI-centered interventions enhance command-line fluency, reduce distractions, an
 | 6   | **Real-Time Terminal TA**<br>`csbuddy explain recursion`<br>`csbuddy debug main.c`<br>`csbuddy why segmentation_fault core.txt`<br>• Context-aware, file-local help | Browser AI chat, LMS chatbots               |
 | 7   | **CLI-Based Automated Study Maps**<br>`studygraph generate`<br>• Analyzes commits, errors, submissions                                                              | GUI dashboard analytics                     |
 | 8   | **Terminal-Based Social Learning**<br>`pairme find-partner --topic "arrays"`<br>`codechat join #cs101`<br>• Minimal chat + shared pane                              | Discord, Slack, GUI pair tools              |
-| 9   | **Terminal based                                                                                                                                                    |                                             |
+| 9   | **Terminal based Semantic Journaling**                                                                                                                              |                                             |
+|     |                                                                                                                                                                     |                                             |
 IDEA 
 --- 
 Use Gext differently, Consider the idea of semantic journaling, Essentially it goes through what you did today via github and logs ? 
