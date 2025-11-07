@@ -1,0 +1,55 @@
+## OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+## VSCode and editor settings
+.vscode/
+*.code-workspace
+
+## Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+
+## Jupyter
+.ipynb_checkpoints
+
+## Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+## Git
+.git/
+
+## Large document folders
+books/
+pdfs/
+SEMEX/
+
+## Obsidian application/runtime files
+obsidian/
+edtechobsidian/Obsidian.exe
+edtechobsidian/*.dll
+edtechobsidian/resources.pak
+edtechobsidian/*.bin
+edtechobsidian/locales/
+
+## Other binary or export artifacts
+*.exe
+*.dll
+*.pak
+*.bin
+*.iso
+*.zip
+*.tar
+
+## Logs
+*.log
+
+## Temporary files
+*.tmp
+~$*
