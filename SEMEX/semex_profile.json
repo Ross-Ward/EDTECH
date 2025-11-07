@@ -1,0 +1,8 @@
+{
+  "level": "intro",
+  "course": "CSSE1001",
+  "goals": ["understand recursion", "build portfolio"],
+  "struggles": ["pointers", "time complexity"],
+  "style": "visual",
+  "pace": "fast"
+}

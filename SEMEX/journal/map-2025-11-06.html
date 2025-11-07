@@ -1,0 +1,51 @@
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Semex Map</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .node { stroke: #fff; stroke-width: 1.5px; }
+    .link { stroke: #999; stroke-opacity: 0.6; }
+  </style>
+</head>
+<body>
+  <h2>Semex Concept Map</h2>
+  <div id="chart"></div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script>
+  const graph = {"nodes": [{"id": "n0", "label": "1.-**core-purpose**", "type": "concept"}, {"id": "n1", "label": "2.-**system-behavior-(user-flow)**", "type": "concept"}, {"id": "n2", "label": "3.-**key-outputs-(structure)**", "type": "concept"}, {"id": "n3", "label": "`journal/2025-11-06.md`", "type": "concept"}, {"id": "n4", "label": "daily-reflection-\u2013-november-6,-2025", "type": "concept"}, {"id": "n5", "label": "what-i-built", "type": "concept"}, {"id": "n6", "label": "why-it-matters", "type": "concept"}, {"id": "n7", "label": "concepts-connected", "type": "concept"}, {"id": "n8", "label": "tomorrow\u2019s-prompt", "type": "concept"}, {"id": "n9", "label": "confidence:-92%-(code-+-notes-+-diagram-alignment)", "type": "concept"}, {"id": "n10", "label": "4.-**design-patterns-(language-agnostic)**", "type": "concept"}, {"id": "n11", "label": "5.-**core-abstractions-(interfaces)**", "type": "concept"}, {"id": "n12", "label": "6.-**ai-integration-model**", "type": "concept"}, {"id": "n13", "label": "7.-**student-profile-(adaptive-layer)**", "type": "concept"}, {"id": "n14", "label": "8.-**extensibility-hooks**", "type": "concept"}, {"id": "n15", "label": "9.-**non-functional-requirements**", "type": "concept"}, {"id": "n16", "label": "10.-**success-metrics-(for-research)**", "type": "concept"}, {"id": "n17", "label": "semex-\u2014-minimal-prototype", "type": "concept"}, {"id": "n18", "label": "pytest-cache-directory-#", "type": "concept"}, {"id": "n19", "label": "binary-search.mmd", "type": "diagram"}, {"id": "n20", "label": "daily-reflection-\u2013-2025-11-06", "type": "concept"}, {"id": "n21", "label": "what-i-built", "type": "concept"}, {"id": "n22", "label": "why-it-matters", "type": "concept"}, {"id": "n23", "label": "concepts-connected", "type": "concept"}, {"id": "n24", "label": "tomorrow\u2019s-prompt", "type": "concept"}, {"id": "n25", "label": "confidence:-95%-(synthesized)", "type": "concept"}, {"id": "n26", "label": "collect_files", "type": "function"}, {"id": "n27", "label": "run_journal", "type": "function"}, {"id": "n28", "label": "run_map", "type": "function"}, {"id": "n29", "label": "main", "type": "function"}, {"id": "n30", "label": "load_config", "type": "function"}, {"id": "n31", "label": "GitRepo", "type": "class"}, {"id": "n32", "label": "__init__", "type": "function"}, {"id": "n33", "label": "get_changed_files", "type": "function"}, {"id": "n34", "label": "get_commits_since", "type": "function"}, {"id": "n35", "label": "load_profile", "type": "function"}, {"id": "n36", "label": "stage_and_commit", "type": "function"}, {"id": "n37", "label": "push", "type": "function"}, {"id": "n38", "label": "_clean_text", "type": "function"}, {"id": "n39", "label": "Journal", "type": "class"}, {"id": "n40", "label": "__init__", "type": "function"}, {"id": "n41", "label": "enhance_with_llm", "type": "function"}, {"id": "n42", "label": "_summary_sections", "type": "function"}, {"id": "n43", "label": "render", "type": "function"}, {"id": "n44", "label": "render_and_persist", "type": "function"}, {"id": "n45", "label": "compose_commit_message", "type": "function"}, {"id": "n46", "label": "LLMInterface", "type": "class"}, {"id": "n47", "label": "MockLLM", "type": "class"}, {"id": "n48", "label": "get_default_llm", "type": "function"}, {"id": "n49", "label": "OllamaLLM", "type": "class"}, {"id": "n50", "label": "synthesize", "type": "function"}, {"id": "n51", "label": "synthesize", "type": "function"}, {"id": "n52", "label": "__init__", "type": "function"}, {"id": "n53", "label": "_build_prompt", "type": "function"}, {"id": "n54", "label": "synthesize", "type": "function"}, {"id": "n55", "label": "generate_map", "type": "function"}, {"id": "n56", "label": "parse_python", "type": "function"}, {"id": "n57", "label": "parse_markdown", "type": "function"}, {"id": "n58", "label": "parse_notebook", "type": "function"}, {"id": "n59", "label": "parse_artifact", "type": "function"}, {"id": "n60", "label": "test_parse_js_functions", "type": "function"}, {"id": "n61", "label": "test_generate_map", "type": "function"}, {"id": "n62", "label": "test_parse_markdown", "type": "function"}, {"id": "n63", "label": "test_parse_python", "type": "function"}, {"id": "n64", "label": "todo-353", "type": "question"}], "links": [{"source": "n25", "target": "n54"}, {"source": "n25", "target": "n54"}, {"source": "n25", "target": "n54"}, {"source": "n26", "target": "n31"}, {"source": "n26", "target": "n33"}, {"source": "n27", "target": "n26"}, {"source": "n27", "target": "n31"}, {"source": "n27", "target": "n34"}, {"source": "n27", "target": "n35"}, {"source": "n27", "target": "n36"}, {"source": "n27", "target": "n37"}, {"source": "n27", "target": "n39"}, {"source": "n27", "target": "n41"}, {"source": "n27", "target": "n43"}, {"source": "n27", "target": "n44"}, {"source": "n27", "target": "n45"}, {"source": "n27", "target": "n48"}, {"source": "n27", "target": "n59"}, {"source": "n28", "target": "n26"}, {"source": "n28", "target": "n31"}, {"source": "n28", "target": "n55"}, {"source": "n28", "target": "n59"}, {"source": "n29", "target": "n27"}, {"source": "n29", "target": "n28"}, {"source": "n29", "target": "n37"}, {"source": "n52", "target": "n52"}, {"source": "n52", "target": "n52"}, {"source": "n52", "target": "n52"}, {"source": "n52", "target": "n52"}, {"source": "n41", "target": "n54"}, {"source": "n41", "target": "n54"}, {"source": "n41", "target": "n54"}, {"source": "n42", "target": "n38"}, {"source": "n43", "target": "n38"}, {"source": "n43", "target": "n42"}, {"source": "n43", "target": "n54"}, {"source": "n43", "target": "n54"}, {"source": "n43", "target": "n54"}, {"source": "n44", "target": "n43"}, {"source": "n48", "target": "n30"}, {"source": "n48", "target": "n46"}, {"source": "n48", "target": "n47"}, {"source": "n48", "target": "n49"}, {"source": "n54", "target": "n54"}, {"source": "n54", "target": "n54"}, {"source": "n52", "target": "n52"}, {"source": "n52", "target": "n52"}, {"source": "n54", "target": "n47"}, {"source": "n54", "target": "n54"}, {"source": "n54", "target": "n54"}, {"source": "n54", "target": "n53"}, {"source": "n57", "target": "n43"}, {"source": "n59", "target": "n56"}, {"source": "n59", "target": "n57"}, {"source": "n59", "target": "n58"}, {"source": "n60", "target": "n59"}, {"source": "n61", "target": "n55"}, {"source": "n62", "target": "n57"}, {"source": "n62", "target": "n59"}, {"source": "n63", "target": "n56"}, {"source": "n63", "target": "n59"}]};
+
+  const width = 900, height = 600;
+  const svg = d3.create("svg").attr("width", width).attr("height", height);
+  document.getElementById('chart').appendChild(svg.node());
+
+  const link = svg.append("g").attr("stroke", "#999").attr("stroke-opacity", 0.6)
+    .selectAll("line").data(graph.links).join("line").attr("class","link");
+
+  const node = svg.append("g").attr("stroke", "#fff").attr("stroke-width", 1.5)
+    .selectAll("circle").data(graph.nodes).join("circle").attr("r", 8).attr("fill", d => d.type === 'concept' ? '#1f77b4' : '#ff7f0e').call(drag(simulation));
+
+  const label = svg.append('g').selectAll('text').data(graph.nodes).join('text').text(d => d.label).attr('x', 12).attr('y', 4);
+
+  const simulation = d3.forceSimulation(graph.nodes)
+    .force('link', d3.forceLink(graph.links).id(d => d.id).distance(120))
+    .force('charge', d3.forceManyBody().strength(-300))
+    .force('center', d3.forceCenter(width / 2, height / 2));
+
+  simulation.on('tick', () => {
+    link.attr('x1', d => d.source.x).attr('y1', d => d.source.y).attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+    node.attr('cx', d => d.x).attr('cy', d => d.y);
+    label.attr('x', d => d.x).attr('y', d => d.y);
+  });
+
+  function drag(simulation){
+    function dragstarted(event){ if (!event.active) simulation.alphaTarget(0.3).restart(); event.subject.fx = event.subject.x; event.subject.fy = event.subject.y; }
+    function dragged(event){ event.subject.fx = event.x; event.subject.fy = event.y; }
+    function dragended(event){ if (!event.active) simulation.alphaTarget(0); event.subject.fx = null; event.subject.fy = null; }
+    return d3.drag().on('start', dragstarted).on('drag', dragged).on('end', dragended);
+  }
+  </script>
+</body>
+</html>
