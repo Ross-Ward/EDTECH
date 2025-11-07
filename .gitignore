@@ -28,7 +28,6 @@ yarn-error.log
 ## Large document folders
 books/
 pdfs/
-SEMEX/
 
 ## Obsidian application/runtime files
 obsidian/
