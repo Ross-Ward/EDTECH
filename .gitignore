@@ -29,6 +29,8 @@ yarn-error.log
 books/
 pdfs/
 tools/
+tools backup/
+tools_backup/
 
 ## Obsidian application/runtime files
 obsidian/
@@ -46,6 +48,16 @@ edtechobsidian/locales/
 *.iso
 *.zip
 *.tar
+
+## Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
 
 ## Logs
 *.log

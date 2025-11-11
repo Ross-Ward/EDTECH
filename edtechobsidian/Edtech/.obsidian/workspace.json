@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "0c7bda85fad38a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c01f2d7931ca6cef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5a648764711495a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c030199b80f081b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa31da0d5e20df7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cccca71a7e4cd86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ae0795198b75e82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4c6acd161c3a2add",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "82d12677410e5992",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ad815dc7830cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8caaa8423cfe458",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Rough Notes/Intervention Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intervention Ideas"
+            }
+          },
+          {
+            "id": "7b05efc70442ea31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Template/Project Notes Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project Notes Template"
+            }
+          },
+          {
+            "id": "957f69e134116056",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a666567a75ab6412",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Template/Project Notes Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Notes Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5a648764711495a",
+  "lastOpenFiles": [
+    "1 - Rough Notes/Promoting exam fluency and code proficiency with Agents and LLMs in digital learning environments-.md",
+    "1 - Rough Notes/Agentic Design Patterns in Education - Impacts on Student Learning and Innovation.md",
+    "1 - Rough Notes/The impact of semantic journaling as note-taking tools against traditional journaling methods in undergraduate code comprehension.md",
+    "1 - Rough Notes/Semantic journaling as pedagogical scaffolding Evidence from first-year programming cohorts.md",
+    "1 - Rough Notes/LLM-powered semantic note-taking agents against passive journaling in software engineering labs.md",
+    "1 - Rough Notes/Applications Agentic Design patterns in software education.md",
+    "1 - Rough Notes/Empowering Students Through Self-Regulated Scaffolding-- Applying Agentic Design Patterns in Digital Learning Environments..md",
+    "1 - Rough Notes/Applications of Physics concepts in Agentic software design patterns..md",
+    "1 - Rough Notes/EXAMPLE NOTE.md",
+    "6 - Full Notes/Overview of Contexture Theory and K-Furthest Neighbors in an EdTech Context.md",
+    "1 - Rough Notes/“Comparing Traditional Coding Approaches and AI-Assisted Low-Code Design in Undergraduate Group Projects”.md",
+    "1 - Rough Notes/“Understanding User Acceptance of AI-Enhanced Low-Code Tools in Software Engineering Education”.md",
+    "1 - Rough Notes/a.md",
+    "1 - Rough Notes/“Analyzing the Effectiveness of AI-Driven Workflow Automation Tools in Group Software Development Projects”.md",
+    "1 - Rough Notes/Testing Particle swarm optimization as a pedagogical accelerators tools in Software Engineering Education.md",
+    "1 - Rough Notes/Naming Convention..md",
+    "1 - Rough Notes/Literature review.md",
+    "1 - Rough Notes/Learning Theories in EdTech.md",
+    "1 - Rough Notes/Intervention Ideas.md",
+    "1 - Rough Notes/Evaluating the Impact of AI-Assisted Low-Code Platforms on Team Productivity in Software Engineering Projects.md",
+    "1 - Rough Notes/enhanced_research_paper.md",
+    "1 - Rough Notes/EdTech Implementation Strategies.md",
+    "1 - Rough Notes/Constructivism in EdTech.md",
+    "1 - Rough Notes/Connectivism in EdTech.md",
+    "1 - Rough Notes/Behaviorism in EdTech.md",
+    "1 - Rough Notes/AI-Driven Planning Tools to Support Capstone Projects in Computer Science Education A Framework for Ethical, Personalized Academic Support.md",
+    "6 - Full Notes/Untitled 2.base",
+    "6 - Full Notes/Untitled.base",
+    "6 - Full Notes/Untitled 1.base",
+    "1 - Rough Notes/AI-Driven Capstone Planning Quotes (1).markdown",
+    "Pasted image 20250423200936.png",
+    "Pasted image 20250423201059.png",
+    "Pasted image 20250423202813.png",
+    "Pasted image 20250423202522.png",
+    "Pasted image 20250423202107.png",
+    "6 - Full Notes/A.T.L.A.S.markdown",
+    "6 - Full Notes/A.T.L.A.markdown",
+    "6 - Full Notes/The Global AI Arms Race and Digital Honeypots.markdown",
+    "6 - Full Notes/LLM-Based Cybersecurity Framework (1).markdown",
+    "6 - Full Notes/Honeypot Theory of AI_ Global Analysis.markdown",
+    "6 - Full Notes/The Honeypot Theory of AI and LLMs_ Exploring the Dangers of Large Language Models as Deceptive Traps.markdown",
+    "Pasted image 20250423203055.png",
+    "Pasted image 20250423202749.png",
+    "Pasted image 20250423202714.png",
+    "Pasted image 20250423202647.png",
+    "Pasted image 20250423202441.png",
+    "Untitled.canvas"
+  ]
+}

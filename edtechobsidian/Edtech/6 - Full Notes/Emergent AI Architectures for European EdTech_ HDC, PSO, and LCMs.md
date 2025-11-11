@@ -12,7 +12,7 @@ This paper analyzes HDC, PSO, and LCMs, highlighting their technical foundations
 
 ## 2. Technical Analysis of HDC, PSO, and LCMs
 ### 2.1 Hyperdimensional Computing (HDC)
-HDC represents data as high-dimensional binary or bipolar hypervectors (e.g., 10,000 dimensions), using XOR operations to encode and compare information [16]. The provided code implements HDC for the XOR problem, achieving 100% accuracy by:
+HDC represents data as high-dimensional binary or bipolar hypervectors (e.g., 10,000 dimensions), using XOR operations to encode and compare information [16]. The provided code implements HDC for the XOR problem, achieving High accuracy by:
 
 - **Generating Hypervectors**: Random binary vectors for features (e.g., `x1`, `x2`) are created, ensuring orthogonality.
 - **Encoding Samples**: Features are combined via component-wise multiplication, producing a sample hypervector.

@@ -1,0 +1,1 @@
+Abstract: This study investigates the effects of agentic design patterns as pedagogical tools for students; who require personalized adaptive learning systems, Agents, Large language models and agentic workflows. Although the potential of agentic design patterns to be used within learning is evident and valuable,  
