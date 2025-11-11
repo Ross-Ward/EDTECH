@@ -1,0 +1,87 @@
+[submodule "tools/AI-Tool-For-Education"]
+	path = tools/AI-Tool-For-Education
+	url = https://huggingface.co/spaces/Rohith25Jan/AI-Tool-For-Education
+[submodule "tools/code-similarity-check"]
+	path = tools/code-similarity-check
+	url = https://huggingface.co/spaces/erin99/code-similarity-check
+[submodule "tools/computer-agent"]
+	path = tools/computer-agent
+	url = https://huggingface.co/spaces/smolagents/computer-agent
+[submodule "tools/cv-2-website"]
+	path = tools/cv-2-website
+	url = https://huggingface.co/spaces/Sobit/cv-2-website
+[submodule "tools/deepsite"]
+	path = tools/deepsite
+	url = https://huggingface.co/spaces/enzostvs/deepsite
+[submodule "tools/educational_content_generation_and_TTS"]
+	path = tools/educational_content_generation_and_TTS
+	url = https://huggingface.co/spaces/mehtisham/educational_content_generation_and_TTS
+[submodule "tools/education_book_generator"]
+	path = tools/education_book_generator
+	url = https://huggingface.co/spaces/fr1tzTh/education_book_generator
+[submodule "tools/esi-hf"]
+	path = tools/esi-hf
+	url = https://huggingface.co/spaces/gm42/esi-hf
+[submodule "tools/Exam-Preparation-Assistant"]
+	path = tools/Exam-Preparation-Assistant
+	url = https://huggingface.co/spaces/siddqamar/Exam-Preparation-Assistant
+[submodule "tools/Exam_Checker_AI"]
+	path = tools/Exam_Checker_AI
+	url = https://huggingface.co/spaces/sharoz/Exam_Checker_AI
+[submodule "tools/Exam_Developer"]
+	path = tools/Exam_Developer
+	url = https://huggingface.co/spaces/ahm14/Exam_Developer
+[submodule "tools/Exam_Generate_using_image"]
+	path = tools/Exam_Generate_using_image
+	url = https://huggingface.co/spaces/ahm14/Exam_Generate_using_image
+[submodule "tools/Exam_Invigilator_Assignment"]
+	path = tools/Exam_Invigilator_Assignment
+	url = https://huggingface.co/spaces/rkmrccoding/Exam_Invigilator_Assignment
+[submodule "tools/Exam_Paper_Checker"]
+	path = tools/Exam_Paper_Checker
+	url = https://huggingface.co/spaces/iamahmar/Exam_Paper_Checker
+[submodule "tools/Exam_score_prediction"]
+	path = tools/Exam_score_prediction
+	url = https://huggingface.co/spaces/taruntippana/Exam_score_prediction
+[submodule "tools/Job-Matcher-Intelligent"]
+	path = tools/Job-Matcher-Intelligent
+	url = https://huggingface.co/spaces/MoRa2001/Job-Matcher-Intelligent
+[submodule "tools/job-recommendation-project"]
+	path = tools/job-recommendation-project
+	url = https://huggingface.co/spaces/ASNVS/job-recommendation-project
+[submodule "tools/learnmate-ai"]
+	path = tools/learnmate-ai
+	url = https://huggingface.co/spaces/kentgarcia/learnmate-ai
+[submodule "tools/linkedin_job_search_agent"]
+	path = tools/linkedin_job_search_agent
+	url = https://huggingface.co/spaces/preslaff/linkedin_job_search_agent
+[submodule "tools/Mock-Interview_Questions"]
+	path = tools/Mock-Interview_Questions
+	url = https://huggingface.co/spaces/bonbibi/Mock-Interview_Questions
+[submodule "tools/Multi_Agent_Job_search_and_match"]
+	path = tools/Multi_Agent_Job_search_and_match
+	url = https://huggingface.co/spaces/Niharmahesh/Multi_Agent_Job_search_and_match
+[submodule "tools/podcast-jobs"]
+	path = tools/podcast-jobs
+	url = https://huggingface.co/spaces/fdaudens/podcast-jobs
+[submodule "tools/Resume-Analyzer-AI"]
+	path = tools/Resume-Analyzer-AI
+	url = https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI
+[submodule "tools/resume-maker-ai-agent"]
+	path = tools/resume-maker-ai-agent
+	url = https://huggingface.co/spaces/deepakpant/resume-maker-ai-agent
+[submodule "tools/Resume_Enhancement"]
+	path = tools/Resume_Enhancement
+	url = https://huggingface.co/spaces/halimbahae/Resume_Enhancement
+[submodule "tools/student-results-scraper"]
+	path = tools/student-results-scraper
+	url = https://huggingface.co/spaces/Lundhubro/student-results-scraper
+[submodule "tools/Student_Ethics_Chat_Classifier"]
+	path = tools/Student_Ethics_Chat_Classifier
+	url = https://huggingface.co/spaces/Sk1306/Student_Ethics_Chat_Classifier
+[submodule "tools/Text-To-Speech-Unlimited"]
+	path = tools/Text-To-Speech-Unlimited
+	url = https://huggingface.co/spaces/NihalGazi/Text-To-Speech-Unlimited
+[submodule "tools/tutorial-fetcher"]
+	path = tools/tutorial-fetcher
+	url = https://huggingface.co/spaces/streaminjoel/tutorial-fetcher
