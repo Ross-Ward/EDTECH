@@ -1,0 +1,106 @@
+.canvas {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: auto;
+}
+
+.canvas-content {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  min-width: 2000px;
+  min-height: 2000px;
+}
+
+.canvas-element {
+  position: absolute;
+  border: 1px solid transparent;
+  transition: all 0.1s ease;
+  cursor: pointer;
+}
+
+.canvas-element:hover {
+  border-color: var(--accent-primary);
+}
+
+.canvas-element.selected {
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.3);
+}
+
+.canvas-element.frame {
+  border: 2px solid var(--border-secondary);
+  border-radius: 8px;
+  background: var(--bg-secondary);
+}
+
+.canvas-element.rectangle {
+  border-radius: 6px;
+}
+
+.canvas-element.text {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  background: transparent;
+  border: none;
+}
+
+.element-text {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.frame-label {
+  position: absolute;
+  top: -24px;
+  left: 0;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  padding: 0.25rem 0.5rem;
+  background: var(--bg-tertiary);
+  border-radius: 4px;
+}
+
+.canvas-controls {
+  position: absolute;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-primary);
+  border-radius: 8px;
+  box-shadow: var(--shadow-md);
+}
+
+.control-button {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid var(--border-primary);
+  border-radius: 4px;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.control-button:hover {
+  background: var(--bg-tertiary);
+  border-color: var(--accent-primary);
+}
+
+.zoom-level {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  min-width: 50px;
+  text-align: center;
+}

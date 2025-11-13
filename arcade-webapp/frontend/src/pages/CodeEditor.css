@@ -1,0 +1,141 @@
+.code-editor-page {
+  animation: fadeIn 0.3s;
+}
+
+.editor-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+}
+
+.editor-panel {
+  min-height: 600px;
+}
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ecf0f1;
+}
+
+.branch-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.branch-label {
+  font-size: 0.9rem;
+  color: #7f8c8d;
+}
+
+.branch-name {
+  font-family: 'Courier New', monospace;
+  background: #f8f9fa;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.code-textarea {
+  width: 100%;
+  min-height: 500px;
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.ai-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.reflection-prompt {
+  background: #fff3cd;
+  padding: 1rem;
+  border-radius: 4px;
+  border-left: 4px solid #ffc107;
+}
+
+.reflection-prompt h4 {
+  margin-bottom: 0.5rem;
+  color: #856404;
+}
+
+.reflection-prompt ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.reflection-prompt li {
+  margin-bottom: 0.5rem;
+  color: #856404;
+}
+
+.ai-input-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.ai-input-section label {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.ai-prompt-input {
+  width: 100%;
+  min-height: 100px;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: inherit;
+  resize: vertical;
+}
+
+.token-warning {
+  padding: 0.75rem;
+  background: #d1ecf1;
+  border-left: 4px solid #17a2b8;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.pattern-tips {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+.pattern-tips h4 {
+  margin-bottom: 0.75rem;
+  color: #2c3e50;
+}
+
+.tip {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.tip:last-child {
+  border-bottom: none;
+}
+
+.tip strong {
+  color: #3498db;
+}
+
+.button.secondary {
+  background: #6c757d;
+}
+
+.button.secondary:hover {
+  background: #5a6268;
+}
