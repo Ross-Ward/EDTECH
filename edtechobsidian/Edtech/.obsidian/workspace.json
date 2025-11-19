@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/ARCADE.md",
+                "file": "1 - Rough Notes/Comparing Traditional Coding Approaches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARCADE"
+              "title": "Comparing Traditional Coding Approaches"
+            }
+          },
+          {
+            "id": "171120d462339bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Distribution of Cognition through applications of agentic workflows..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distribution of Cognition through applications of agentic workflows."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,34 +185,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3257ed5b95de785",
+  "active": "171120d462339bcb",
   "lastOpenFiles": [
-    "1 - Rough Notes/“Understanding User Acceptance of AI-Enhanced Low-Code Tools in Software Engineering Education”.md",
-    "1 - Rough Notes/Promoting exam fluency and code proficiency with Agents and LLMs in digital learning environments-.md",
-    "1 - Rough Notes/Agentic Design Patterns in Education - Impacts on Student Learning and Innovation.md",
-    "1 - Rough Notes/The impact of semantic journaling as note-taking tools against traditional journaling methods in undergraduate code comprehension.md",
-    "1 - Rough Notes/Semantic journaling as pedagogical scaffolding Evidence from first-year programming cohorts.md",
-    "1 - Rough Notes/LLM-powered semantic note-taking agents against passive journaling in software engineering labs.md",
-    "1 - Rough Notes/Applications Agentic Design patterns in software education.md",
-    "1 - Rough Notes/Empowering Students Through Self-Regulated Scaffolding-- Applying Agentic Design Patterns in Digital Learning Environments..md",
-    "1 - Rough Notes/Applications of Physics concepts in Agentic software design patterns..md",
-    "1 - Rough Notes/EXAMPLE NOTE.md",
-    "6 - Full Notes/Overview of Contexture Theory and K-Furthest Neighbors in an EdTech Context.md",
+    "1 - Rough Notes/'Teaching a man to fish' - Investigations into LLM assisted Low Code, No Code digital environments on code fluency and information retention.md",
+    "1 - Rough Notes/Distribution of Cognition through applications of agentic workflows..md",
+    "1 - Rough Notes/Comparing Traditional Coding Approaches.md",
     "1 - Rough Notes/“Comparing Traditional Coding Approaches and AI-Assisted Low-Code Design in Undergraduate Group Projects”.md",
-    "1 - Rough Notes/a.md",
+    "1 - Rough Notes/“Understanding User Acceptance of AI-Enhanced Low-Code Tools in Software Engineering Education”.md",
     "1 - Rough Notes/“Analyzing the Effectiveness of AI-Driven Workflow Automation Tools in Group Software Development Projects”.md",
-    "1 - Rough Notes/Testing Particle swarm optimization as a pedagogical accelerators tools in Software Engineering Education.md",
-    "1 - Rough Notes/Naming Convention..md",
-    "1 - Rough Notes/Literature review.md",
-    "1 - Rough Notes/Learning Theories in EdTech.md",
+    "1 - Rough Notes/Brainstorm.md",
+    "1 - Rough Notes/Connectivism in EdTech.md",
+    "1 - Rough Notes/Constructivism in EdTech.md",
+    "1 - Rough Notes/EdTech Implementation Strategies.md",
+    "1 - Rough Notes/Empowering Students Through Self-Regulated Scaffolding-- Applying Agentic Design Patterns in Digital Learning Environments..md",
+    "1 - Rough Notes/enhanced_research_paper.md",
     "1 - Rough Notes/Intervention Ideas.md",
     "1 - Rough Notes/Evaluating the Impact of AI-Assisted Low-Code Platforms on Team Productivity in Software Engineering Projects.md",
-    "1 - Rough Notes/enhanced_research_paper.md",
-    "1 - Rough Notes/EdTech Implementation Strategies.md",
-    "1 - Rough Notes/Constructivism in EdTech.md",
-    "1 - Rough Notes/Connectivism in EdTech.md",
-    "1 - Rough Notes/Behaviorism in EdTech.md",
-    "1 - Rough Notes/AI-Driven Planning Tools to Support Capstone Projects in Computer Science Education A Framework for Ethical, Personalized Academic Support.md",
+    "1 - Rough Notes/Investigating the Impact of Distributed AI Agent Systems on Learning Outcomes and Software Quality in Undergraduate Group Projects.md",
+    "1 - Rough Notes/Learning Theories in EdTech.md",
+    "1 - Rough Notes/Literature review.md",
+    "1 - Rough Notes/LLM-powered semantic note-taking agents against passive journaling in software engineering labs.md",
+    "1 - Rough Notes/Naming Convention..md",
+    "1 - Rough Notes/Promoting exam fluency and code proficiency with Agents and LLMs in digital learning environments-.md",
+    "1 - Rough Notes/teaching-agents-paradox.md",
+    "1 - Rough Notes/Semantic journaling as pedagogical scaffolding Evidence from first-year programming cohorts.md",
+    "1 - Rough Notes/Testing Particle swarm optimization as a pedagogical accelerators tools in Software Engineering Education.md",
+    "1 - Rough Notes/The impact of semantic journaling as note-taking tools against traditional journaling methods in undergraduate code comprehension.md",
+    "1 - Rough Notes/UnderstandPaper.md",
+    "6 - Full Notes/John needs this Evolving Educational Practices through Targeted EdTech Interventions.md",
     "6 - Full Notes/Untitled 2.base",
     "6 - Full Notes/Untitled.base",
     "6 - Full Notes/Untitled 1.base",
